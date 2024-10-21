@@ -39,7 +39,7 @@
 
 .header__logo-image {
   display: block;
-  width: 129.11px;
+  width: 135px;
   height: 104.65px;
 }
 
@@ -173,8 +173,9 @@
 .lots__card-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  gap: 25px;
   padding-top: 27px;
+
 }
 
 .lots__card-list-item {
